@@ -1,0 +1,13 @@
+{
+  "wake_word": "beep boop",
+  "author": "your name",
+  "website": "",
+  "model": "./beep_boop.tflite",
+  "version": 2,
+  "micro": {
+    "probability_cutoff": 0.97,
+    "sliding_window_size": 5,
+    "feature_step_size": 20,
+    "tensor_arena_size": 45000
+  }
+}
