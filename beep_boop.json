@@ -1,6 +1,6 @@
 {
   "wake_word": "beep boop",
-  "author": "your name",
+  "author": "Greg Kastner",
   "website": "",
   "model": "./beep_boop.tflite",
   "version": 2,
